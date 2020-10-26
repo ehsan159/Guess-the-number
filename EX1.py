@@ -1,4 +1,4 @@
-#we gonna know what is best first chiose for win in this game
+
 
 import random
 import xlwt
